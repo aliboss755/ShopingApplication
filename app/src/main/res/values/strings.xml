@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Shoping Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="rightAddress" translatable="false">THe Right Address\nFor Shopping\nAnyday"</string>
+    <string name="quality" translatable="false">It is  now vary easy to rack the\nbest quality among the\nproducts on the internet!\n</string>
+    <string name="start" translatable="false">Start</string>
+    <string name="Register" translatable="false">Register</string>
+    <string name="logIn" translatable="false">Login</string>
+    <string name="kleine" translatable="false">Kleine.</string>
+    <string name="REGISTER" translatable="false">REGISTER</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="last_name" translatable="false">Last Name</string>
+    <string name="first_name" translatable="false">First Name</string>
+    <string name="let_s_register" translatable="false">Let\'s Register</string>
+    <string name="forgot_password" translatable="false">Forgot Password</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="facebook" translatable="false">facebook</string>
+</resources>
